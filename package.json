@@ -1,22 +1,26 @@
 {
-    "name": "mz-colors",
-    "displayName": "mz-colors",
-    "description": "",
-    "version": "0.2.1",
-    "publisher": "menduz",
-    "engines": {
-        "vscode": "^1.27.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "mz-colors",
-                "uiTheme": "vs-dark",
-                "path": "./themes/mz-colors-color-theme.json"
-            }
-        ]
-    }
+  "name": "mz-colors",
+  "displayName": "mz-colors",
+  "description": "",
+  "version": "0.2.1",
+  "publisher": "menduz",
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menduz/mz-colors-vscode"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "mz-colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mz-colors-color-theme.json"
+      }
+    ]
+  }
 }
