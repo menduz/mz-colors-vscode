@@ -43,6 +43,7 @@
     "breadcrumb.focusForeground": "#e0e0e0",
     "breadcrumbPicker.background": "#2d2d30",
     "button.background": "#0e639c",
+
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#1177bb",
     "debugExceptionWidget.background": "#420b0d",
@@ -245,10 +246,12 @@
     "textLink.foreground": "#3794ff",
     "textPreformat.foreground": "#d7ba7d",
     "textSeparator.foreground": "#ffffff2e",
-    "titleBar.activeBackground": "#3c3c3c",
+
+    "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#cccccc",
-    "titleBar.inactiveBackground": "#3c3c3c99",
+    "titleBar.inactiveBackground": "#00000099",
     "titleBar.inactiveForeground": "#cccccc99",
+
     "widget.shadow": "#000000"
   },
   "tokenColors": [
