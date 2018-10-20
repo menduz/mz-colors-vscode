@@ -1,6 +1,8 @@
+[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=menduz.mz-colors)
+
 # mz-colors, IntelliJ colors but darker. Better with:
 
-https://marketplace.visualstudio.com/items?itemName=menduz.mz-colors
+A good font: [Input Mono Narrow](http://input.fontbureau.com/)
 
 ```json
 {
