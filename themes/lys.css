@@ -1,0 +1,17 @@
+:root {
+  --background: #202020;
+
+  --f_high: #e47464;
+  --f_med: #ffffff;
+  --f_low: #c4c4c4;
+  --f_inv: #5f5353;
+
+  --b_high: #eeeeee;
+  --b_med: #5f5353;
+  --b_low: #47424a;
+  --b_inv: #e47464;
+
+  --f_con: #72dec2;
+  --b_con: #ffb545;
+  --error: #ed2c3e;
+}

@@ -20,6 +20,11 @@
         "label": "mz-colors",
         "uiTheme": "vs-dark",
         "path": "./themes/mz-colors-color-theme.json"
+      },
+      {
+        "label": "lys-colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lys-colors-color-theme.json"
       }
     ]
   }
