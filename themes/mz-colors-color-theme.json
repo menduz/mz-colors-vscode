@@ -4,7 +4,6 @@
   "type": "dark",
   "colors": {
     "breadcrumb.foreground": "#999999",
-
     "breadcrumb.background": "#202020",
     "editor.background": "#202020",
     "editorGroupHeader.noTabsBackground": "#202020",
@@ -16,11 +15,11 @@
     "sideBar.background": "#101010",
 
     "editor.foreground": "#c4c4c4",
-    "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.lineHighlightBackground": "#2a2a2b",
-    "editor.selectionHighlightBackground": "#5f5353",
-    "editor.selectionBackground": "#47424a",
-    "selection.background": "#5f535369",
+    "editor.selectionHighlightBackground": "#c4c4c420",
+    "editor.inactiveSelectionBackground": "#c4c4c420",
+    "editor.selectionBackground": "#c4c4c440",
+    "selection.background": "#c4c4c440",
 
     "editorBracketMatch.background": "#00000000",
     "editorBracketMatch.border": "#CC7832",
@@ -606,7 +605,7 @@
       "scope": ["support.class.console", "keyword.other.debugger"],
       "settings": {
         "foreground": "#4EC9B0",
-        "fontStyle": "underline bold italic"
+        "fontStyle": "bold"
       }
     },
     {
