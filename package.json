@@ -2,7 +2,7 @@
   "name": "mz-colors",
   "displayName": "mz-colors",
   "description": "",
-  "version": "0.2.11",
+  "version": "0.3.12",
   "publisher": "menduz",
   "engines": {
     "vscode": "^1.27.0"

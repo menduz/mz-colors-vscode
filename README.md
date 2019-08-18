@@ -1,8 +1,25 @@
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=menduz.mz-colors)
 
-# mz-colors, IntelliJ colors but darker. Better with:
+# mz-colors, a simple theme
 
-A good font: [Input Mono Narrow](http://input.fontbureau.com/)
+This theme focuses in contrasts and highlights. It was designed following this principle:
+
+> It is a failure in design if you need to add a border to separate things.
+
+So it is a best effort using highlights and background colors to set up context.
+
+![img](images/landing.png)
+![img](images/full-screen.png)
+![img](images/search.png)
+![img](images/lisp.png)
+![img](images/terminal.png)
+
+## Recommended setup
+
+- Do not use the activity bar, the keyboard shortcuts are easy to remember.
+- When possible, turn off the status bar, vertical space is precious.
+- Disable tabs
+- Disable "Open editors"
 
 ```json
 {
